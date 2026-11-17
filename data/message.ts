@@ -3,11 +3,11 @@ export const messageData = {
   subtitle: 'To my favorite princess — today, and every day.',
   body: `Hey princess,
 
-I found something pretty today and it made me think of you — soft, bright, and impossible not to smile at. I wanted to celebrate you — your kindness, your laugh, the way you brighten my days.
+I found something beautiful today and of course it reminded me of you — soft, lovely and impossible not to fall for. Just like you, my little princess. 🫂🤍
 
-You're my queen of small things and big heart. Happy National Princess Day. 🌸
+You're my prettiest little princess, my queen of the smallest things and the biggest heart. Happy National Princess Day, my love 💋🤍
 
-— With all my love, Rushi`,
+— With all my love, bonda`,
   cta: 'Open your gift ✨',
   toast: {
     copied: 'Message copied! Send it with a heart 💌',
